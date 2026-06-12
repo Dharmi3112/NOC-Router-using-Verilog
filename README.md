@@ -124,6 +124,9 @@ Verifies congestion handling and flow control.
 - Quantum-Classical Interface Chips
 
 
+## Report
+
+Detailed project documentation including router architecture, FIFO design, XY routing implementation, round-robin arbitration, crossbar switching, flow control, GUI visualization, and simulation results is available in the project report.
 
 ## Author
 
